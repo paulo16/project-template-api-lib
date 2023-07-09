@@ -19,6 +19,11 @@
     "target": "ES2022",
     "module": "ES2022",
     "useDefineForClassFields": false,
+    "paths": {
+      "template-bootstrap-api": [
+        "dist/template-bootstrap-api"
+      ]
+    },
     "lib": [
       "ES2022",
       "dom"
